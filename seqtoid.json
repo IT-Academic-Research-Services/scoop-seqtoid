@@ -1,0 +1,15 @@
+{
+    "version": "6.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/IT-Academic-Research-Services/seqtoid-cli/releases/download/v6.1.0/seqtoid-cli_windows_amd64.zip",
+            "bin": [
+                "seqtoid-cli_windows_amd64/seqtoid.exe"
+            ],
+            "hash": "e3de4a28b43f71cecdbdc13df3194dda03999198eb98cb713f96803b4d96d796"
+        }
+    },
+    "homepage": "https://github.com/IT-Academic-Research-Services/seqtoid-cli",
+    "license": "MIT",
+    "description": "A CLI for uploading samples to SeqToID"
+}
