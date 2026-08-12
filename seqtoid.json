@@ -1,12 +1,12 @@
 {
-    "version": "6.1.3",
+    "version": "6.1.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/IT-Academic-Research-Services/seqtoid-cli/releases/download/v6.1.3/seqtoid-cli_windows_amd64.zip",
+            "url": "https://github.com/IT-Academic-Research-Services/seqtoid-cli/releases/download/v6.1.4/seqtoid-cli_windows_amd64.zip",
             "bin": [
                 "seqtoid.exe"
             ],
-            "hash": "07b44874da86f01fcf5a8849aaed519d9982962f04c4a1b166e00f355246e85d"
+            "hash": "2d413bb381b1efc0b8e4818794d49ea930feef50dfabea5cd7fe59fdca2e3906"
         }
     },
     "homepage": "https://github.com/IT-Academic-Research-Services/seqtoid-cli",
